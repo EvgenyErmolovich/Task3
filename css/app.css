@@ -1,0 +1,9 @@
+body { margin: 30px; }
+
+.content { margin: 0 auto; width: 800px; height: 300px; background-color: #f0f0f0; }
+
+.cell{display: table-cell; border: solid 1px black; width: 200px; height: 73px; }
+.row{display: table-row; width: 800px; height: 73px; }
+.red{background: red;}
+.orange{background: #ff9800;}
+.green{background: green;}
